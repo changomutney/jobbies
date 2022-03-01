@@ -1,7 +1,4 @@
 #!/bin/sh
-export PWD=/home/marc/Documents/MCUXpresso_11.5.0_7232/workspace/MKL26Z4_Project_jlink-test2/Debug
-export CWD=/home/marc/Documents/MCUXpresso_11.5.0_7232/workspace/MKL26Z4_Project_jlink-test2/Debug
-export PATH=/usr/local/mcuxpressoide-11.5.0_7232/ide/plugins/com.nxp.mcuxpresso.tools.bin.linux_11.5.0.202112161149/binaries/:/usr/local/mcuxpressoide-11.5.0_7232/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.5.0.202107051138/tools/bin:/bin:/usr/bin:/sbin:/home/marc/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/games:/usr/local/games:/snap/bin
 
 cd Release/
 
