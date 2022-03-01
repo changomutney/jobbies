@@ -1,0 +1,5 @@
+power on
+h
+loadfile Release/output.bin
+r
+q

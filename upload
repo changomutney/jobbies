@@ -1,0 +1,3 @@
+!#/bin/sh
+
+JLinkExe -device MKL26Z64xxx4 -speed 4000 -if swd -autoconnect 1 -NoGui 1 -CommanderScript "upload.jlink"
